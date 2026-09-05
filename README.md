@@ -14,26 +14,32 @@
 
 ## 👨‍💻 About me
 
-Computer Science student focused on software development and data.
 
-Currently developing my skills in C#, .NET, SQL and programming logic, while applying technology and data analysis in an e-commerce environment.
+I'm a Computer Science student focused on Backend Development and Data.
 
-- 🎓 Computer Science student
-- 💻 Focused on Backend Development
-- 📊 Interested in Data Analysis
-- 🚀 Building projects to strengthen my software development skills
+I currently work with e-commerce systems, sales data and digital platforms, which has helped me understand how technology can directly impact business operations.
 
+Currently focused on:
+
+- ⚙️ C# and .NET
+- 🧠 Algorithms & Programming Logic
+- 🗄️ SQL and Databases
+- 📊 Data Analysis
+- 🌐 Backend Development & APIs
 ---
+
 
 ## 🛠 Technologies
 
-### Currently studying
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github" />
+</p>
 
-- C#
-- .NET
-- SQL
-- Git
-- GitHub
+### Currently learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java" />
+</p>
 
 ### Exploring
 
